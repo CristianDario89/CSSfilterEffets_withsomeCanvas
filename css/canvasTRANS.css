@@ -1,0 +1,72 @@
+  div.contenedor{
+            width: 70%;
+            margin: 5% auto;
+           padding: 2em;
+            background: rgb(236,236,236);
+           box-shadow: 0px 0px 0px 8px rgba(0,0,0,.3); 
+        }
+        
+        div.ejemplo{
+            width: 150px;
+            height: 150px;
+            border-radius: 5px;
+            background: rgb(20,174,187);
+           
+            transition: all 2s cubic-bezier(0,1.31,.94,-0.17 ) .2s;  
+        }
+        
+        .contenedor:hover > .ejemplo{
+            background: black;
+            border-radius: 50%;
+            margin-left: 70%;
+         }
+
+
+/*Canvas foto header*/
+
+  .imagen{
+            border: 
+                    2px solid white
+                ;
+            border-radius: 50%;
+            background: rgba(0,0,0,.2);
+            width: 120px;
+            height: 120px;
+            margin: 25px ;
+        }
+        .imagen > img{
+            width: 120px;
+            transition: all 1s ease;
+        }
+         .imagen > img:hover{
+            width: 120px;
+            -webkit-transform: scale(1.5) rotate(2turn) translate(10%, 10%);
+            
+        }
+/**/
+
+   
+          .container2{
+            width: 20px;  
+            height: 20px;
+            background: black;
+            
+            box-shadow: -20px 20px blue, 
+                    -70px 50px red,
+                  -110px 50px red,
+                  -150px 50px red,
+                  -190px 60px red,
+                  -230px 60px red,
+                   -270px 60px red,
+                   -310px 60px red,
+                   -350px 60px red,
+                 -390px 50px red,
+                 -430px 50px red,
+                 -470px 50px red,
+                -505px 20px blue,
+                 -505px -20px green,
+                 -525px 0px black,
+                     -20px -20px green;
+        }
+     
+        
