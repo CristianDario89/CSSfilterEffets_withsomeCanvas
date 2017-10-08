@@ -5,5 +5,6 @@ Take a look!:
 https://cristiandario89.github.io/CSSfilterEffets_withsomeCanvas/#
 
 Don't forget to:
-Choose one option from the menu list
-move the mouse over the header image and over the canvas below before the footer.
+- Choose one option from the menu list
+
+- move the mouse over the header image and over the canvas below before the footer.
