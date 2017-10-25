@@ -3,7 +3,7 @@ The amazing filter effect on CSS to display any kind of products for any busines
 
 Take a look!:
 
-CristianDario89.github.io/FilterEffects-CSS_withCanvas
+https://CristianDario89.github.io/FilterEffects-CSS_withCanvas/#
 
 Don't forget to:
 - Choose one option from the menu list
